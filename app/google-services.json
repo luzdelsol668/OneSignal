@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "714287200677",
+    "firebase_url": "https://mypublicprojects-b936c.firebaseio.com",
+    "project_id": "mypublicprojects-b936c",
+    "storage_bucket": "mypublicprojects-b936c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714287200677:android:939cb7783e90a49c",
+        "android_client_info": {
+          "package_name": "deloslgeocoder.mygeoco.com.geocoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714287200677-cmmb009engh2aacla6j7qspnou2acjgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deloslgeocoder.mygeoco.com.geocoder",
+            "certificate_hash": "947dbc338f40cd8ac1c36d4130a55da3a7cfd482"
+          }
+        },
+        {
+          "client_id": "714287200677-2lncqe68re9lbssmu2nl5hgjst6opqp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7gpnWyEM0OyZtuuIPOfMX_MwN_NG-P80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714287200677-2lncqe68re9lbssmu2nl5hgjst6opqp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714287200677:android:8a4584a8b68f3f18",
+        "android_client_info": {
+          "package_name": "onesignal.delsol.com.onesignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714287200677-t3lrcr6ibn4u26fr16leql3a7nh2q913.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "onesignal.delsol.com.onesignal",
+            "certificate_hash": "8df91a74a4ef691da61c3e82b6b973ebee5d4a1f"
+          }
+        },
+        {
+          "client_id": "714287200677-2lncqe68re9lbssmu2nl5hgjst6opqp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7gpnWyEM0OyZtuuIPOfMX_MwN_NG-P80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714287200677-2lncqe68re9lbssmu2nl5hgjst6opqp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
